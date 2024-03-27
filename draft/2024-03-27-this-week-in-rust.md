@@ -220,6 +220,8 @@ Rusty Events between 2024-03-27 - 2024-04-24 🦀
     * [**Rust Meetup Reboot 3**](https://www.meetup.com/cambridge-rust-meetup/events/299730322/)
 * 2024-04-10 | Oslo, NO | [Rust Oslo](https://www.meetup.com/rust-oslo/)
     * [**Rust Hack'n'Learn at Kampen Bistro**](https://www.meetup.com/rust-oslo/events/299488225/)
+* 2024-04-10 | Manchester, UK | [Manchester Rust Meetup](https://www.meetup.com/rust-manchester/)
+    * [**Rust Manchester April 2024**](https://www.meetup.com/rust-manchester/events/299887934)
 * 2024-04-11 | Bordeaux, FR | [Rust Bordeaux](https://www.meetup.com/bordeaux-rust/)
     * [**Rust Bordeaux #2 : Présentations**](https://www.meetup.com/bordeaux-rust/events/299628716/)
 * 2024-04-11 | Reading, UK | [Reading Rust Workshop](https://www.meetup.com/reading-rust-workshop/)
